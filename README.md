@@ -21,4 +21,4 @@ Readme.md
 * Added 2_outputting
 * Added 3_lists
 * Added 4_variables
-
+* Added 5_conditionals
