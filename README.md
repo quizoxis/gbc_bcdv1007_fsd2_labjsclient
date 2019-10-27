@@ -20,3 +20,5 @@ Readme.md
 * Added 1_hello_world
 * Added 2_outputting
 * Added 3_lists
+* Added 4_variables
+
