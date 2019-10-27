@@ -19,3 +19,4 @@ Readme.md
 * Added 0_template
 * Added 1_hello_world
 * Added 2_outputting
+* Added 3_lists
