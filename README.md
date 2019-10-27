@@ -23,3 +23,4 @@ Readme.md
 * Added 4_variables
 * Added 5_conditionals
 * Added 6_loops
+* Added 7_functions
