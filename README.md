@@ -22,3 +22,4 @@ Readme.md
 * Added 3_lists
 * Added 4_variables
 * Added 5_conditionals
+* Added 6_loops
