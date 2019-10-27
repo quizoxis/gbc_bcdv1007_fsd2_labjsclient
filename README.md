@@ -17,4 +17,4 @@ Readme.md
 # Labs - js_client_side
 * Added Task1
 * Added 0_template
-
+* Added 1_hello_world
