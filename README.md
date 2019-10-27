@@ -25,3 +25,4 @@ Readme.md
 * Added 6_loops
 * Added 7_functions
 * Added 8_forms
+* Added 9_events
