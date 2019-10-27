@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Send Us A Message</title>
+</head>
+<body>
+
+<h2>Send Us a Message</h2>
+
+<p>Please use the form below to send us a message.</p>
+
+<div>
+    <form id="frmMessage">
+        <fieldset>
+            <legend>Contact Details</legend>
+            <label for="name">Name:</label>
+            <input id="name"><br />
+
+            <label for="user-email">Email:</label>
+            <input id="user-email">
+
+        </fieldset>
+        <fieldset>
+            <legend>Message Details</legend>
+
+            <label>Message Body:</label>
+            <textarea cols="50" rows="7"></textarea>
+        </fieldset>
+        <fieldset>
+            <legend>Actions</legend>
+            <br>
+
+            <a href="##" onClick="history.go(-1); return false;">Go back</a>
+
+            <input type="submit" value="Submit now" />
+        </fieldset>
+
+    </form>
+</div>
+
+<script>
+
+    document.getElementById("frmMessage").addEventListener("submit", myFunction);
+    function myFunction() {
+        alert("Message submitted successfully.\n!!! *** Navigating to Home Page now....");
+        window.location.href = 'index.html';
+    }
+</script>
+
+</body>
+</html>
