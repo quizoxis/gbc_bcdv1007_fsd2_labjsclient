@@ -14,3 +14,7 @@ Readme.md
 | Course | Full Stack Development II - BCDV1007 | 
 
 ---
+# Labs - js_client_side
+* Added Task1
+* Added 0_template
+
